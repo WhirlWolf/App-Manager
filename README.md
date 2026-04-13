@@ -1,11 +1,19 @@
+<div align="center">
+<p align="center">
+  <img src="assets/banner.svg" alt="App Manager" width="50%"/>
+</p>
+  
 # App-Manager
 App related features and automations such as enabling auto rotate when gallery is launched, etc.
+</div>
+
+---
 
 ## Prerequisites
 - [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm)
 
 ## Setup
-- Import project from Taskernet
+- [Import Project](https://taskernet.com/shares/?user=AS35m8m8L9YzBV3qbzaAAqHiSYXYBbD3QfZ7hr0hRK4ojOFTCrjWh2CScbjMw4NaudRi1zKKzq85&id=Project%3AApp+Manager)
 - Run setup task
 
 ## Features
